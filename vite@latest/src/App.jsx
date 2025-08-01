@@ -61,7 +61,6 @@ const item9 = {
   const personagens = [item1, item2, item3, item4, item5, item6, item7, item8, item9 ]
   return (
     <>
-     
       <div className='lista'>
         {
         personagens.map(function (umpersonagem) {
